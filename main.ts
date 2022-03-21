@@ -8,7 +8,7 @@ basic.forever(function () {
         # . . # .
         # # # . .
         `)
-    basic.pause(100)
+    basic.pause(200)
     basic.showLeds(`
         # # # # .
         # . . . .
@@ -16,7 +16,7 @@ basic.forever(function () {
         # . . . .
         # # # # .
         `)
-    basic.pause(100)
+    basic.pause(200)
     basic.showLeds(`
         # . . # .
         # . . # .
@@ -24,7 +24,7 @@ basic.forever(function () {
         # . . # .
         # . . # .
         `)
-    basic.pause(100)
+    basic.pause(200)
     basic.showLeds(`
         . . # . .
         . . # . .
@@ -32,7 +32,7 @@ basic.forever(function () {
         . . # . .
         . . # . .
         `)
-    basic.pause(100)
+    basic.pause(200)
     basic.showLeds(`
         # . . # .
         # # . # .
@@ -48,6 +48,6 @@ basic.forever(function () {
         # . . # .
         # # # . .
         `)
-    basic.pause(500)
+    basic.pause(600)
     basic.showString("YOU")
 })
